@@ -36,7 +36,7 @@ cd gitexplorer
 :arrow_forward: Instale as dependências<br>
 yarn
 
-:fire: Rode a aplicação<br>
+:arrow_forward: Rode a aplicação<br>
 yarn dev
 
 ## :fire: Teste automatizado:
