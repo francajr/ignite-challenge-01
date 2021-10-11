@@ -30,7 +30,7 @@ git clone https://github.com/francajr/ignite-challenge-01.git<br>
 
 :black_small_square: ou use o opção de download.<br>
 
-:arrow_forward: Entre no diret;orio<br>
+:arrow_forward: Entre no diretório<br>
 cd gitexplorer
 
 :arrow_forward: Instale as dependências<br>
