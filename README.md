@@ -1,5 +1,5 @@
 # :heavy_check_mark: to.do
-:tada: Projeto utilizado como Desafio I do Capitulo I do programa Ignite da Rocketseat.
+:tada: Projeto utilizado como Desafio I do Capitulo I do programa Ignite da Rocketseat
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/11893798/136856018-493e527a-5a54-4946-93c5-fc9160cc3944.png" width="800px" />
